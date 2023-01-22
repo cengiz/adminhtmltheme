@@ -1,1 +1,3 @@
 # adminhtmltheme
+
+architectui html tema
